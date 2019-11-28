@@ -1,0 +1,29 @@
+.list-1{
+	
+}
+
+.list-1 li{
+	width: 25%;
+	background-color: transparent !important;
+	border: none !important;
+}
+.list-1 li span{
+	border: 1px solid #999;
+	border-radius: 50%;
+	padding: 15px 20px;
+	background-color:#fff;
+}
+.jumbotron .list-del{
+	width: 64%;
+	border-top:1px solid #999;
+	position:relative;
+	top:40px;
+}
+
+.title-list{}
+.title-list li{
+    width: 25%;
+    padding: 10px 29px;
+    background-color: transparent;
+    border: none;
+}
